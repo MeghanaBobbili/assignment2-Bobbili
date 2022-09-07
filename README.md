@@ -19,3 +19,12 @@ The directions from Rajiv Gandhi international airport to salarjung museum by ca
 3. Follow Sultan Shahi Rd and Mir Alam Mandi Rd to Darulshifa
 4. Turn left and you will find Salarjung museum.
 
+List of other locations around the **SalarJung Museum** :
+* Hussain Sagar
+* Golconda Fort
+* Jalavihar
+* Birla Mandir
+* NTR Gardens
+
+
+
