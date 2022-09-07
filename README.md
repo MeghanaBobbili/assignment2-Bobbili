@@ -28,3 +28,10 @@ List of other locations around the **SalarJung Museum** :
 
 [Know_Intresting_Facts_About_Me](/AboutMe.md)
 
+
+| :CITY: | :PLACES TO VISIT: | :DURATION: |
+| --- | --- | ---: |
+| Hyderabad | Faluknama Palace,Ramoji film city | 2 hour |
+| Delhi | Red Fort,Parliment,qutub minar | 3 hours |
+| Mumbai | India Gate,Taj Palace | 2 hours |
+| Chennai | Marina Beach,Museum | 4 hours |
