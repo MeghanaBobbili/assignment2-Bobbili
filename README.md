@@ -28,6 +28,10 @@ List of other locations around the **SalarJung Museum** :
 
 [Know_Intresting_Facts_About_Me](/AboutMe.md)
 
+---
+
+### Places to Visit in India
+
 
 | CITY | PLACES TO VISIT | DURATION |
 | --- | --- | --- |
