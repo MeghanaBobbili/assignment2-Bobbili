@@ -45,4 +45,5 @@ List of other locations around the **SalarJung Museum** :
 ### pithy Quotes
 
 > Arise! Awake! and stop not until the goal is reached-**Swami vivekananda**
+
 > The greatness of humanity is not in being human, but in being humane-**Mahatma Gandhi**
