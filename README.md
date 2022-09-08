@@ -39,3 +39,10 @@ List of other locations around the **SalarJung Museum** :
 | Delhi | Red Fort,Parliment,qutub minar | 3 hours |
 | Mumbai | India Gate,Taj Palace | 2 hours |
 | Chennai | Marina Beach,Museum | 4 hours |
+
+***
+
+### pithy Quotes
+
+> Arise! Awake! and stop not until the goal is reached-**Swami vivekananda**
+> The greatness of humanity is not in being human, but in being humane-**Mahatma Gandhi**
