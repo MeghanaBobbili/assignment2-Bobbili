@@ -47,3 +47,22 @@ List of other locations around the **SalarJung Museum** :
 > Arise! Awake! and stop not until the goal is reached-*Swami vivekananda*
 
 > The greatness of humanity is not in being human, but in being humane-*Mahatma Gandhi*
+
+***
+
+### code fencing
+
+> How to change color of SVG image using CSS (jQuery SVG image replacement)?
+
+<https://stackoverflow.com/questions/11978995/how-to-change-color-of-svg-image-using-css-jquery-svg-image-replacement>
+
+```
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+```
+<https://css-tricks.com/snippets/svg/svg-hamburger-menu/>
+
+***
